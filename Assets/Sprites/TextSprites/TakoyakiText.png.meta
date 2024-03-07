@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: 62c4029dfceef8d40aee275f1b06304e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7419839415378065041
+    second: TakoyakiText_0
+  - first:
+      213: 3916770989839800159
+    second: TakoyakiText_1
+  - first:
+      213: -3363876835603073779
+    second: TakoyakiText_2
+  - first:
+      213: 8834384318803872419
+    second: TakoyakiText_3
+  - first:
+      213: 1324286278432369549
+    second: TakoyakiText_4
+  - first:
+      213: 157434312696618238
+    second: TakoyakiText_5
+  - first:
+      213: -2142297039662546822
+    second: TakoyakiText_6
+  - first:
+      213: -4254580777410928683
+    second: TakoyakiText_7
+  - first:
+      213: 4896006009193001179
+    second: TakoyakiText_8
+  - first:
+      213: 708251191522652163
+    second: TakoyakiText_9
+  - first:
+      213: 3084123429377440396
+    second: TakoyakiText_10
+  - first:
+      213: -8125118281854537529
+    second: TakoyakiText_11
+  - first:
+      213: 3819996579686707084
+    second: TakoyakiText_12
+  - first:
+      213: -5404118955919366820
+    second: TakoyakiText_13
+  - first:
+      213: 7846782471616498124
+    second: TakoyakiText_14
+  - first:
+      213: -4851875061825577984
+    second: TakoyakiText_15
+  - first:
+      213: 415808612668928427
+    second: TakoyakiText_16
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TakoyakiText_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1963d04e2a098f660800000000000000
+      internalID: 7419839415378065041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakoyakiText_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 124
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57d4fb967a2b5630800000000000000
+      internalID: 3916770989839800159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakoyakiText_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 125
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05b6b137db1151d0800000000000000
+      internalID: -3363876835603073779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakoyakiText_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 36
+        width: 52
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa069b3bb90a9a70800000000000000
+      internalID: 8834384318803872419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakoyakiText_4
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 123
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ba2e69a5fc06210800000000000000
+      internalID: 1324286278432369549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakoyakiText_5
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 124
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc5dbb5ca15f2200800000000000000
+      internalID: 157434312696618238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakoyakiText_6
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 125
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a700b8b51380542e0800000000000000
+      internalID: -2142297039662546822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakoyakiText_7
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 36
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df573e1351b4f4c0800000000000000
+      internalID: -4254580777410928683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakoyakiText_8
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 0
+        width: 236
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd07024768b12f340800000000000000
+      internalID: 4896006009193001179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakoyakiText_9
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 224
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300747ac4b634d900800000000000000
+      internalID: 708251191522652163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakoyakiText_10
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 0
+        width: 223
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a708b2be10dca20800000000000000
+      internalID: 3084123429377440396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakoyakiText_11
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 0
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0370ca8f7cd3f80800000000000000
+      internalID: -8125118281854537529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakoyakiText_12
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 0
+        width: 52
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fee6766aa530530800000000000000
+      internalID: 3819996579686707084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakoyakiText_13
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 36
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55a87c1176b005b0800000000000000
+      internalID: -5404118955919366820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakoyakiText_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9867a751f55ec60800000000000000
+      internalID: 7846782471616498124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakoyakiText_15
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 0
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c5f4d665daaacb0800000000000000
+      internalID: -4851875061825577984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TakoyakiText_16
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1fdaceabf35c500800000000000000
+      internalID: 415808612668928427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TakoyakiText_0: 7419839415378065041
+      TakoyakiText_1: 3916770989839800159
+      TakoyakiText_10: 3084123429377440396
+      TakoyakiText_11: -8125118281854537529
+      TakoyakiText_12: 3819996579686707084
+      TakoyakiText_13: -5404118955919366820
+      TakoyakiText_14: 7846782471616498124
+      TakoyakiText_15: -4851875061825577984
+      TakoyakiText_16: 415808612668928427
+      TakoyakiText_2: -3363876835603073779
+      TakoyakiText_3: 8834384318803872419
+      TakoyakiText_4: 1324286278432369549
+      TakoyakiText_5: 157434312696618238
+      TakoyakiText_6: -2142297039662546822
+      TakoyakiText_7: -4254580777410928683
+      TakoyakiText_8: 4896006009193001179
+      TakoyakiText_9: 708251191522652163
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,724 @@
+fileFormatVersion: 2
+guid: 2d4c8348e36ecff41b1a5eae4e34d0bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3408930528221293018
+    second: MilkteaText_0
+  - first:
+      213: 6318867323352015910
+    second: MilkteaText_1
+  - first:
+      213: -7150216653313019989
+    second: MilkteaText_2
+  - first:
+      213: 4943476313593942432
+    second: MilkteaText_3
+  - first:
+      213: -5234944075600452566
+    second: MilkteaText_4
+  - first:
+      213: 8827261798238802009
+    second: MilkteaText_5
+  - first:
+      213: -4534959517160750202
+    second: MilkteaText_6
+  - first:
+      213: -6498218053347961606
+    second: MilkteaText_7
+  - first:
+      213: 2205935151819772315
+    second: MilkteaText_8
+  - first:
+      213: -7567120558722037389
+    second: MilkteaText_9
+  - first:
+      213: -4011654206903498596
+    second: MilkteaText_10
+  - first:
+      213: 6617516428031939780
+    second: MilkteaText_11
+  - first:
+      213: -2135149819696112282
+    second: MilkteaText_12
+  - first:
+      213: -526839222763322091
+    second: MilkteaText_13
+  - first:
+      213: 8196533540909737848
+    second: MilkteaText_14
+  - first:
+      213: -7270278646083982556
+    second: MilkteaText_15
+  - first:
+      213: 7150767264632412747
+    second: MilkteaText_16
+  - first:
+      213: -8146529076912167205
+    second: MilkteaText_17
+  - first:
+      213: -4469142209293997177
+    second: MilkteaText_18
+  - first:
+      213: 3411438634964561214
+    second: MilkteaText_19
+  - first:
+      213: 322493276170852132
+    second: MilkteaText_20
+  - first:
+      213: 4479242509350362366
+    second: MilkteaText_21
+  - first:
+      213: 3659403272270105240
+    second: MilkteaText_22
+  - first:
+      213: -7871816346423317444
+    second: MilkteaText_23
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MilkteaText_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6269261febb01b0d0800000000000000
+      internalID: -3408930528221293018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 124
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624683f0a5021b750800000000000000
+      internalID: 6318867323352015910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 125
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafe13856d355cc90800000000000000
+      internalID: -7150216653313019989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 36
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1135bf381ca9440800000000000000
+      internalID: 4943476313593942432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_4
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 123
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24acc2691eb957b0800000000000000
+      internalID: -5234944075600452566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_5
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 124
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950566f26dbb08a70800000000000000
+      internalID: 8827261798238802009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_6
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 125
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6834bdca8569011c0800000000000000
+      internalID: -4534959517160750202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_7
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 36
+        width: 52
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af41a290c11b1d5a0800000000000000
+      internalID: -6498218053347961606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_8
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 0
+        width: 123
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91d3c1455e0d9e10800000000000000
+      internalID: 2205935151819772315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_9
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 0
+        width: 124
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37941d4b1ff2cf690800000000000000
+      internalID: -7567120558722037389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_10
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 0
+        width: 125
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98c0d3e0cdb358c0800000000000000
+      internalID: -4011654206903498596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_11
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 36
+        width: 51
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4d724512426db50800000000000000
+      internalID: 6617516428031939780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_12
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 0
+        width: 125
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d16ce2d8c6e52e0800000000000000
+      internalID: -2135149819696112282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_13
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 0
+        width: 52
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5150379a48a40b8f0800000000000000
+      internalID: -526839222763322091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_14
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 0
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877ef7f04dfefb170800000000000000
+      internalID: 8196533540909737848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_15
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 0
+        width: 124
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b6e0a4718ca1b90800000000000000
+      internalID: -7270278646083982556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_16
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 0
+        width: 125
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a18e7d0f0ac3360800000000000000
+      internalID: 7150767264632412747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_17
+      rect:
+        serializedVersion: 2
+        x: 2041
+        y: 0
+        width: 125
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6624a77f6b1fe80800000000000000
+      internalID: -8146529076912167205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_18
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 0
+        width: 125
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ba354d6da6af1c0800000000000000
+      internalID: -4469142209293997177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_19
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 36
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d2b1a2d5dd75f20800000000000000
+      internalID: 3411438634964561214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_20
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 0
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4279d901de9b97400800000000000000
+      internalID: 322493276170852132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_21
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 0
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc58a88457792e30800000000000000
+      internalID: 4479242509350362366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_22
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 0
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89acf8543efc8c230800000000000000
+      internalID: 3659403272270105240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MilkteaText_23
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 0
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c23565db0b1c290800000000000000
+      internalID: -7871816346423317444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MilkteaText_0: -3408930528221293018
+      MilkteaText_1: 6318867323352015910
+      MilkteaText_10: -4011654206903498596
+      MilkteaText_11: 6617516428031939780
+      MilkteaText_12: -2135149819696112282
+      MilkteaText_13: -526839222763322091
+      MilkteaText_14: 8196533540909737848
+      MilkteaText_15: -7270278646083982556
+      MilkteaText_16: 7150767264632412747
+      MilkteaText_17: -8146529076912167205
+      MilkteaText_18: -4469142209293997177
+      MilkteaText_19: 3411438634964561214
+      MilkteaText_2: -7150216653313019989
+      MilkteaText_20: 322493276170852132
+      MilkteaText_21: 4479242509350362366
+      MilkteaText_22: 3659403272270105240
+      MilkteaText_23: -7871816346423317444
+      MilkteaText_3: 4943476313593942432
+      MilkteaText_4: -5234944075600452566
+      MilkteaText_5: 8827261798238802009
+      MilkteaText_6: -4534959517160750202
+      MilkteaText_7: -6498218053347961606
+      MilkteaText_8: 2205935151819772315
+      MilkteaText_9: -7567120558722037389
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

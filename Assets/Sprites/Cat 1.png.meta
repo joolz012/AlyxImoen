@@ -1,0 +1,311 @@
+fileFormatVersion: 2
+guid: 71911c82173d114438644df8a822d25e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1703328318163155827
+    second: Cat 1_0
+  - first:
+      213: 6991064922668105370
+    second: Cat 1_1
+  - first:
+      213: -2314209431805684910
+    second: Cat 1_2
+  - first:
+      213: -4528500985027911084
+    second: Cat 1_3
+  - first:
+      213: -1455148825681508480
+    second: Cat 1_4
+  - first:
+      213: -6226039786995699756
+    second: Cat 1_5
+  - first:
+      213: 4313732878360036773
+    second: Cat 1_6
+  - first:
+      213: -3806298785856233497
+    second: Cat 1_7
+  - first:
+      213: -8266918598765505536
+    second: Cat 1_8
+  - first:
+      213: -2550259857556391569
+    second: Cat 1_9
+  - first:
+      213: 4501054561119264974
+    second: Cat 1_10
+  - first:
+      213: -6032630025265200179
+    second: Cat 1_11
+  - first:
+      213: 6229758232947756980
+    second: Cat 1_12
+  - first:
+      213: -8568865120462421239
+    second: Cat 1_13
+  - first:
+      213: 4689239966550450988
+    second: Cat 1_14
+  - first:
+      213: -2483600144252271064
+    second: Cat 1_15
+  - first:
+      213: 4070393900354463981
+    second: Cat 1_16
+  - first:
+      213: 5207357733091126580
+    second: Cat 1_17
+  - first:
+      213: 3399784866379600499
+    second: Cat 1_18
+  - first:
+      213: -7503699329267340525
+    second: Cat 1_19
+  - first:
+      213: 2846873994107718673
+    second: Cat 1_20
+  - first:
+      213: 10057224861330781
+    second: Cat 1_21
+  - first:
+      213: 4591611470909436201
+    second: Cat 1_22
+  - first:
+      213: -67401583045900902
+    second: Cat 1_23
+  - first:
+      213: 2277783265583539688
+    second: Cat 1_24
+  - first:
+      213: 6263271186181996743
+    second: Cat 1_25
+  - first:
+      213: 758972373613487281
+    second: Cat 1_26
+  - first:
+      213: 3559709160909852159
+    second: Cat 1_27
+  - first:
+      213: -6588982172528115892
+    second: Cat 1_28
+  - first:
+      213: 4350542531838606069
+    second: Cat 1_29
+  - first:
+      213: 6883283414199276487
+    second: Cat 1_30
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cat 1_28
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 4
+        width: 66
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f741fbf9b3f84a0800000000000000
+      internalID: -6588982172528115892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat 1_29
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 4
+        width: 74
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faf77ee16b306c30800000000000000
+      internalID: 4350542531838606069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cat 1_30
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 4
+        width: 74
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c39fa7cbc5568f50800000000000000
+      internalID: 6883283414199276487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ceea1ea4ebb03c54cac38ab301ae09e9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Cat 1_0: -1703328318163155827
+      Cat 1_1: 6991064922668105370
+      Cat 1_10: 4501054561119264974
+      Cat 1_11: -6032630025265200179
+      Cat 1_12: 6229758232947756980
+      Cat 1_13: -8568865120462421239
+      Cat 1_14: 4689239966550450988
+      Cat 1_15: -2483600144252271064
+      Cat 1_16: 4070393900354463981
+      Cat 1_17: 5207357733091126580
+      Cat 1_18: 3399784866379600499
+      Cat 1_19: -7503699329267340525
+      Cat 1_2: -2314209431805684910
+      Cat 1_20: 2846873994107718673
+      Cat 1_21: 10057224861330781
+      Cat 1_22: 4591611470909436201
+      Cat 1_23: -67401583045900902
+      Cat 1_24: 2277783265583539688
+      Cat 1_25: 6263271186181996743
+      Cat 1_26: 758972373613487281
+      Cat 1_27: 3559709160909852159
+      Cat 1_28: -6588982172528115892
+      Cat 1_29: 4350542531838606069
+      Cat 1_3: -4528500985027911084
+      Cat 1_30: 6883283414199276487
+      Cat 1_4: -1455148825681508480
+      Cat 1_5: -6226039786995699756
+      Cat 1_6: 4313732878360036773
+      Cat 1_7: -3806298785856233497
+      Cat 1_8: -8266918598765505536
+      Cat 1_9: -2550259857556391569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
