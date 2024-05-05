@@ -28,7 +28,6 @@ public class PooScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // Set velocity in Update() to maintain constant speed
         rb.velocity = new Vector2(pooSpeed, 0); 
         
 
