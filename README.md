@@ -1,2 +1,2 @@
 Personal Project
-Finished 2 days
+Finished in 2 days
